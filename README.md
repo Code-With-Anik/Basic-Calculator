@@ -11,8 +11,6 @@ This is a simple and elegant Calculator UI project that showcases a visually app
 
 - **Calcutating performance:** This calculator typically has several features that make it useful for performing mathematical operations; like :Functions for addition (+), subtraction (−), multiplication (×), and division (÷) . Some key features are 'Clear' (AC) Button: To clear the current input or all inputs, 'Equal' (=) Button: To calculate the result of the entered expression.
 
-- **Dark Mode:** Toggle between the standard light mode and a sleek dark mode, providing users with a comfortable viewing experience in low-light environments.
-
 
 ## Deployment
 
