@@ -3,10 +3,6 @@ This is my first Git Repository
 <br>
 Author - Anik Kundu
 
-
-![Calculator UI Dark mode](calculator_demo_dark.png)
-![Calculator UI Light mode](calculator_demo_light.png)
-
 This is a simple and elegant Calculator UI project that showcases a visually appealing and user-friendly calculator interface. The project is built using HTML, CSS, and JavaScript to provide a responsive and interactive experience for users.
 
 ## Features
@@ -20,7 +16,9 @@ This is a simple and elegant Calculator UI project that showcases a visually app
 
 ## Deployment
 
-The Calculator UI project is deployed using GitHub Pages. You can access the deployed application by following this link: [Calculator UI GitHub Pages](https://code-with-anik.github.io/Calculator/)
+![Calculator UI Dark mode](Basic-Calculator.png)
+
+The Calculator UI project is deployed using GitHub Pages. You can access the deployed application by following this link: [Calculator UI GitHub Pages](https://code-with-anik.github.io/Basic-Calculator/)
 
 ## Usage
 
